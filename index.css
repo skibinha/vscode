@@ -1,0 +1,10 @@
+body
+*{padding: 0%;
+margin: 0%;
+lest=sizing}
+
+header{width: 100px;
+    background-color: blue;
+    display: flex;
+    align-items: center ;
+jutify-content: space-between;}
